@@ -1,0 +1,23 @@
+.container-fluid{
+	margin: 0;
+	padding: 0px 0px 20px 0px;
+	border-radius: 5px;
+	.secondary-navigation{
+		display: inline;
+		width: 100%;
+		.sixsectionfooter{
+			float: left;
+			width: 15%;
+			margin-right: 0.5%;
+			margin-left: 1%;
+			h3{
+				font-size: 15px;
+				margin-left: 0px;
+			}
+			ul{
+				margin: 0;
+                padding: 0px 16px;
+			}
+		}
+	}
+}

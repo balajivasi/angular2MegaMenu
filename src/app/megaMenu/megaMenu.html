@@ -1,0 +1,24 @@
+<ul class="nav navbar-nav navbar-right MegaMenu" *ngIf="megaMenuData">
+   <li *ngFor="let menu of megaMenuData">
+      <a href="#" routerLink="./{{menu.link}}" routerLinkActive="active">{{menu.title}}</a>
+      <div class="MainPanel" *ngIf="menu.subMenuNavigation">
+      	<div *ngFor="let subMenu of menu.subMenuNavigation" class="{{subMenu.classNames}}" [style.width]="getwidth(menu.subMenuNavigation.length)" >
+	      	<ul>
+	        	<li *ngFor="let section of subMenu.sections">
+	        		<div *ngIf="section.subTitle" class="listItem">
+		        		<h4><a href="#" routerLink="./{{menu.link}}/{{section.link}}">{{ section.subTitle }}</a></h4>
+		        		<ul *ngIf="section.menus" class="subMenuList">
+		        			<li *ngFor="let sectionLink of section.menus">
+		        				<a href="#" routerLink="./{{menu.link}}/{{section.link}}/{{sectionLink.link}}">{{sectionLink.title}}</a>
+		        			</li>
+		        		</ul>
+		        	</div>
+		        	<div *ngIf="section.bannerImage" class="banner">
+		        		{{ section | json }}
+		        	</div>
+	        	</li>
+	      	</ul>
+	     </div>
+      </div>
+   </li>
+</ul>

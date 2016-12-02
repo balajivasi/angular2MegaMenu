@@ -1,0 +1,382 @@
+[
+  {
+    "title":"Gas & Electricity",
+    "link":"gasAndElectricity",
+    "subMenuNavigation":[
+      {
+        "classNames":"column1",
+        "sections":[
+          {
+            "subTitle":"Get a quote",
+            "link":"getaquote",
+            "menus":[
+              {
+                "title":"Business gas",
+                "link":"Business_gas"
+              },
+              {
+                "title":"Business electricity",
+                "link":"Business_electricity"
+              },
+              {
+                "title":"Compare business gas",
+                "link":"Compare_business_gas"
+              },
+			        {
+                "title":"compare business electricity",
+                "link":"compare_business_electricity"
+              },
+			        {
+                "title":"existing customer renewl",
+                "link":"existing_customer_renewl"
+              }
+            ]
+          },
+		      {
+            "subTitle":"How to switch to us",
+            "link":"How_to_switch_to_us"
+          }
+        ]
+      },
+      {
+        "classNames":"column2",
+        "sections":[
+          {
+            "subTitle":"New gas & electricity connections",
+            "link":"new_gas_electricity_connections"
+          },
+		      {
+            "subTitle":"Energy price plans",
+            "link":"energy_price_plans"
+          },
+		      {
+            "subTitle":"Partners",
+            "link":"partners"
+          },
+		      {
+            "subTitle":"Invalid link",
+            "link":"invalid_link"
+          }
+        ]
+      },
+      {
+        "classNames":"column3",
+        "sections":[
+          {
+            "classNames":"",
+            "type":"content",
+            "bannerImage":"sample.png",
+            "bannerTitle":"sample"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Energy services",
+    "link":"energyServices",
+    "subMenuNavigation":[
+      {
+        "classNames":"column1",
+        "sections":[
+          {
+            "subTitle":"Mainatining your systems ",
+            "link":"mainatiningYourSystems",
+            "menus":[
+              {
+                "title":"Gas appliance service options",
+                "link":"Gas_appliance_service_options"
+              },
+              {
+                "title":"Business gas safety checks",
+                "link":"Business_gas_safety_checks"
+              },
+              {
+                "title":"Business boiler breakdowns",
+                "link":"Business_boiler_breakdowns"
+              },
+             {
+                "title":"Dyno-rod",
+                "link":"Dyno_rod"
+              },
+              {
+                "title":"Invalid link",
+                "link":"Invalid_link"
+              }
+            ]
+          },
+          {
+            "subTitle":"Consilatancy",
+            "link":"Consilatancy"
+          }
+        ]
+      },
+    {
+        "classNames":"column2",
+        "sections":[
+          {
+            "subTitle":"Business boiler quotes installations & repairs",
+            "link":"businessBoilerQuotes",
+            "menus":[
+              {
+                "title":"Business boiler installation quotes",
+                "link":"Business_boiler_installation_quotes"
+              }
+            ]
+          },
+          {
+            "subTitle":"Efficiency",
+            "link":"efficiency",
+            "menus":[
+              {
+                "title":"Retrofitting to reduce energy use",
+                "link":"Retrofitting_to_reduce_energy_use"
+              },
+              {
+                "title":"Insulation",
+                "link":"Insulation"
+              },
+              {
+                "title":"Charging points for electric cars and electic vans",
+                "link":"Charging_points_for_electric_cars_and_electic_vans"
+              },
+              {
+                "title":"Short term operating reserve",
+                "link":"Short_term_operating_reserve"
+              }
+        
+            ]
+          }
+        ]
+      },
+      {
+        "classNames":"column3",
+        "sections":[
+          {
+            "subTitle":"Monitoring",
+            "link":"monitoring",
+            "menus":[
+              {
+                "title":"Smart meters",
+                "link":"Smart_meters.html"
+              },
+              {
+                "title":"Building energy managment system",
+                "link":"Building_energy_managment_system"
+              }
+            ]
+          },
+          {
+            "subTitle":"Training",
+            "link":"Training"
+          },
+          {
+            "subTitle":"Renewable Energy",
+            "link":"renewableEnergy",
+            "menus":[
+              {
+                "title":"Biomass boilers",
+                "link":"Biomass_boilers"
+              },
+              {
+                "title":"Feed-in Tariff",
+                "link":"Feed_in_Tariff.html"
+              },
+              {
+                "title":"Invalid link",
+                "link":"Invalid_link"
+              }
+            ]
+          }
+        ]
+      },
+    
+      {
+        "classNames":"column4",
+        "sections":[
+          {
+            "classNames":"",
+            "type":"content",
+            "bannerImage":"sample.png",
+            "bannerTitle":"sample"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Smarter Working",
+    "link":"smarterWorking",
+    "subMenuNavigation":[
+      {
+        "classNames":"column1",
+        "sections":[
+          {
+            "subTitle":"Mainatining your systems ",
+            "link":"mainatiningYourSystems",
+            "menus":[
+              {
+                "title":"Hotels & leisure",
+                "link":"Hotels_leisure"
+              },
+              {
+                "title":"Manufacturing",
+                "link":"Manufacturing"
+              },
+              {
+                "title":"Offices",
+                "link":"Offices"
+              },
+               {
+                "title":"Public sector",
+                "link":"Public sector"
+              },
+               { 
+                "title":"Restaurent owners",
+                "link":"Restaurent_owners"
+              },
+             {
+                "title":"Retail",
+                "link":"Retail"
+              },
+             {
+                "title":"Social housing",
+                "link":"Social_housing"
+              }
+        
+            ]
+          },
+          {
+            "subTitle":"Hive active Heating",
+            "link":"hive_active_Heating"
+          }
+        ]
+      },
+    {
+        "classNames":"column2",
+        "sections":[
+          {
+            "subTitle":"Energy made simple",
+            "link":"energyMadeSimple",
+            "menus":[
+              {
+                "title":"Energy basics",
+                "link":"Energy_basics"
+              },
+             {
+                "title":"Cost of energy",
+                "link":"Cost_of_energy"
+              },
+             {
+                "title":"Contracts and billing",
+                "link":"Contracts_and_billing"
+              },
+               {
+                "title":"Saving energy",
+                "link":"Saving_energy"
+              }
+        
+            ]
+          }
+        ]
+      },
+      {
+        "classNames":"column3",
+        "sections":[
+          {
+            "subTitle":"Case studies",
+            "link":"caseStudies",
+            "menus":[
+              {
+                "title":"Case study - sydney arms",
+                "link":"Case_study_sydney_arms"
+              },
+             {
+                "title":"Case study - barnstaple bakery",
+                "link":"Case_study_barnstaple_bakery"
+              },
+               {
+                "title":"Case study - JEB precision",
+                "link":"Case_study_JEB_precision"
+              },
+             {
+                "title":"Case study - costcutter",
+                "link":"Case_study_costcutter"
+              }
+            ]
+          },
+          {
+            "subTitle":"Energy Insight report",
+            "link":"Energy_Insight_report"
+          }
+        ]
+      },
+    
+      {
+        "classNames":"column4",
+        "sections":[
+          {
+            "classNames":"",
+            "type":"content",
+            "bannerImage":"sample.png",
+            "bannerTitle":"sample"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Your account",
+    "link":"yourAccount",
+    "subMenuNavigation":[
+      {
+        "classNames":"column1",
+        "sections":[
+          {
+            "subTitle":"Heading1",
+            "link":"Heading1",
+            "menus":[
+              {
+                "title":"Submit a meter reading",
+                "link":"Submit_a_meter_reading"
+              },
+              {
+                "title":"Make a payment",
+                "link":"Make_a_payment"
+              },
+              {
+                "title":"Set up a direct debit",
+                "link":"Set_up_a_direct_debit"
+              },
+        
+              {
+                "title":"Copy bills & statments",
+                "link":"Copy_bills_statments"
+              },
+              {
+                "title":"Moving premises",
+                "link":"Moving_premises"
+              },
+              {
+                "title":"Understanding your bill",
+                "link":"Understanding_your_bill"
+              }
+        
+            ]
+          }
+        ]
+      },
+      {
+        "classNames":"column2",
+        "sections":[
+          {
+            "title":"Don't have an online account?<br/><br/>Create an account todat, it will only take a few minutes.",
+            "link":""
+          }
+        ]
+      }
+      
+    ]
+  }
+  
+]

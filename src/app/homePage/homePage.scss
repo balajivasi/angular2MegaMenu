@@ -1,0 +1,16 @@
+.maincontentbanner h2{color:#129adb;text-align:left;padding-left:0;}
+	.maincontentbanner .bannerpart{padding-left:0;}
+	.maincontentbanner .sidebar{padding-right:0;}
+	.maincontentbtm{margin-top:25px;}
+	.maincontentbtm .services{padding-left: 44px;}
+	.maincontentbtm .services:first-child{padding-left:0;}
+	.maincontentbtm .services:last-child{padding-right:0;text-align:right;    padding-left: 70px;}
+
+.maincontentbtm{
+	margin:15px 0px;
+	padding: 0;
+	.col-sm-4{
+		margin: 0;
+		padding: 0;
+	}
+}

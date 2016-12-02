@@ -1,0 +1,26 @@
+
+<div class="container-fluid innerpage">
+	<ol class="breadcrumb">
+		<li class="breadcrumb-item"><a routerLink="/">Home</a></li>
+		<li class="breadcrumb-item" *ngFor="let name of breadcrumb">{{name}}</li>
+	</ol>
+	<div class="col-sm-3 leftsidebar">			  
+			<ul>
+				<li><a href="/business/gas-and-electricity/business-electricity/large-business-electricity">Electricity for large businesses</a>
+				</li>
+				<li><a href="/business/gas-and-electricity/business-electricity/compare-electricity">Compare business electricity</a>
+				</li>
+				<li><a href="/business/gas-and-electricity/business-electricity/P272">P272 FAQs</a>
+				</li>
+			</ul>	
+		</div>
+		<div class="col-sm-9 col-md-9 innerContent">			  
+		  <h1>{{pageTitle}}</h1>
+		  <div class="col-sm-9 col-md-9">
+			<img src="./assets/images/innerbanner.png"   />
+		  </div>
+		  <div class="col-sm-3 col-md-3 innersidebar"> 
+			<img src="./assets/images/innersidebar.png" alt="Image">
+		  </div>
+		</div>
+</div>
